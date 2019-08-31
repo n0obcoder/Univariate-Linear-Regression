@@ -1,4 +1,4 @@
-# Univariate-Linear-Regression
+# Univariate-Linear-Regression-in-Numpy
 This is an implementation of Univariate Linear Regression from scratch in Python using Numpy.
 
 ## Dependencies
